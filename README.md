@@ -24,7 +24,6 @@
 - [Results](#results)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
