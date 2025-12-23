@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-st.set_page_config(layout="wide")
-st.title("🚀 Telco Churn Predictor")
+st.set_page_config(page_title="Telco Churn Risk Dashboard", layout="wide")
+st.title("📊 Telco Churn Risk Dashboard")
 st.markdown("**Random Forest (F1: 63.2%) – PRODUCTION READY**")
 
 model = joblib.load("jay/models/best_model.pkl")
