@@ -7,7 +7,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Live Demo](#https://telco-churn-prediction1234.streamlit.app/) • [Dataset](#dataset) • [Installation](#installation) • [Usage](#usage)
+[Live Demo](https://telco-churn-prediction1234.streamlit.app/) • [Dataset](#dataset) • [Installation](#installation) • [Usage](#usage)
 
 ---
 
